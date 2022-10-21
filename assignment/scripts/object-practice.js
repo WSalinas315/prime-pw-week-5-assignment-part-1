@@ -14,7 +14,7 @@ const me = {
   lastName: 'Salinas',
   hasSiblings: true,
   shoeCount: 13,
-  favThreeFoods: ['Chicken Shahi Korma','Pizza','Tacos']
+  favThreeFoods: ['Chicken Shahi Korma','Korean BBQ Pizza','Tacos']
 };
 console.log('A little about me:', me);
 
